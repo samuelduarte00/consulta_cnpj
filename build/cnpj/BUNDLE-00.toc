@@ -1,0 +1,1 @@
+([('cnpj', '/Users/macbook17/Documents/Dev/CNPJ/dist/cnpj', 'EXECUTABLE')],)
